@@ -1,0 +1,8 @@
+1. Faced difficulty installing and configuring the MinGW GCC compiler.
+2. Initially, GCC was not recognized in the VS Code terminal.
+3. Had trouble adding the MinGW bin folder to Windows environment variables.
+4. Faced confusion while installing the required C/C++ extensions.
+5. Encountered errors while compiling and running C programs.
+6. Had difficulty configuring the compiler path correctly.
+7. Resolved the issues by updating PATH variables and restarting VS Code.
+8. Successfully tested the setup by compiling and executing a sample C program.
